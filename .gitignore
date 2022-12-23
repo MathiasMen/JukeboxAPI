@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+JukeboxEnv
 
 # Spyder project settings
 .spyderproject
